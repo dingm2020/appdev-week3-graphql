@@ -723,5 +723,7 @@ While we focused on getting you up and running to production with Astra DB and N
 
 [Ania's Netflix Video](https://www.youtube.com/watch?v=g8COh40v2jU)
 
-
+# Netlify - Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/304ec8d9-8bce-4081-bae0-75be9557b8ee/deploy-status)](https://app.netlify.com/sites/maxnetflixclone/deploys)
+
+Link is live (https://maxnetflixclone.netlify.app/)
